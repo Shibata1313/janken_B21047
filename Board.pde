@@ -1,5 +1,6 @@
 class Board {
 
+  
   void updateSelectArea() {
     PImage gu = loadImage("gu.png");
     PImage choki = loadImage("choki.png");

@@ -1,3 +1,4 @@
+
 class Game {
 int score=0;
 String getJankenResult(String hand) {
